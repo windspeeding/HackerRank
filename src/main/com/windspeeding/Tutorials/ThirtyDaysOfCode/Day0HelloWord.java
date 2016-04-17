@@ -1,4 +1,4 @@
-package com.windspeeding.Tutorials.ThirtyDaysOfCode;
+package main.com.windspeeding.Tutorials.ThirtyDaysOfCode;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.windspeeding.Java.Introduction;
+package main.com.windspeeding.Java.Introduction;
 
 import java.util.Scanner;
 

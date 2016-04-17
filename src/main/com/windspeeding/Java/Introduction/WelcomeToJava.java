@@ -1,4 +1,4 @@
-package com.windspeeding.Java.Introduction;
+package main.com.windspeeding.Java.Introduction;
 
 /**
  * Created by Feng on 4/16/2016.
